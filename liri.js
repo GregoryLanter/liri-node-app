@@ -6,6 +6,7 @@ if (result.error) {
 }
 var keys = require("./keys.js");
 var axios = require("axios");
+var moment = require('moment');
 
 var choice = process.argv[2].toLowerCase();
 
@@ -35,7 +36,7 @@ function concert() {
                 console.log(searchTerm + " is playing at:")
                 console.log("Venue: " + response.data[i].venue.name);
                 console.log("Location: " + response.data[i].venue.city + ", " + response.data[i].venue.region + " " + response.data[i].venue.country);
-                console.log("Date: " + response.data[i].datetime);
+                console.log("Date: " + moment(response.data[i].datetime).format("MM/DD/YYYY h:mm a"));
                 console.log(lineBreak);
             }
         }
