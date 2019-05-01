@@ -4,35 +4,42 @@ const result = dotenv.config();
 if (result.error) {
     console.log(result.error)
 }
+var keys = require("./keys.js");
+var axios = require("axios");
 
 var choice = process.argv[2].toLowerCase();
 var searchTerm = process.argv[3].toLowerCase();
 
+var lineBreak = "~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
 switch (choice) {
     case "spotify-this-song":
-        spotify();
+        song();
         break;
     case "movie-this":
         omdb();
         break;
 }
 function omdb() {
-var queryUrl = "http://www.omdbapi.com/?t=" + searchTerm + "&y=&plot=short&apikey=331ebb59";
+    var omdbVal = keys.omdb.id;
+    var queryUrl = "http://www.omdbapi.com/?t=" + searchTerm + "&y=&plot=short&apikey="+omdbVal;
 
-// This line is just to help us debug against the actual URL.
-console.log(queryUrl);
-
-axios.get(queryUrl).then(
-  function(response) {
-    console.log("Release Year: " + response.data.Year);
-  }
-);
+    axios.get(queryUrl).then(
+        function (response) {
+            console.log("Title: "+ response.data.Title);
+            console.log("Year: "+ response.data.Year);
+            console.log("OMDB Rating: "+ response.data.Ratings[0].Value);
+            console.log("Rotten Tomatoes Rating: "+ response.data.Ratings[1].Value);
+            console.log("Country: "+ response.data.Country);
+            console.log("Langage: "+ response.data.Language);
+            console.log("Plot: "+ response.data.Plot);
+            console.log("Actors: "+ response.data.Actors);
+            console.log(lineBreak);
+        }
+    );
 
 }
 
-function spotify() {
-    var keys = require("./keys.js");
-    var axios = require("axios");
+function song() {
     var Spotify = require("node-spotify-api");
     var spotify = new Spotify(keys.spotify);
 
