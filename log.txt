@@ -1,3 +1,422 @@
+sting is playing at:
+Venue: State Farm Arena
+Location: Hidalgo, TX United States
+Date: 05/10/2019 8:00 pm
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+sting is playing at:
+Venue: Roundhouse
+Location: London,  United Kingdom
+Date: 05/19/2019 8:00 pm
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+sting is playing at:
+Venue: O2 Academy Birmingham
+Location: Birmingham,  United Kingdom
+Date: 05/24/2019 12:00 am
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+sting is playing at:
+Venue: O2 Academy Newcastle
+Location: Newcastle Upon Tyne,  United Kingdom
+Date: 05/22/2019 8:00 pm
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+sting is playing at:
+Venue: O2 Apollo Manchester
+Location: Manchester,  United Kingdom
+Date: 05/25/2019 12:00 am
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+sting is playing at:
+Venue: La Seine Musicale
+Location: Boulogne-billancourt,  France
+Date: 05/28/2019 8:00 pm
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+sting is playing at:
+Venue: Албум
+Location: Momchigrad,  Bulgaria
+Date: 06/01/2019 8:00 pm
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+sting is playing at:
+Venue: Dvorana Stožice
+Location: Ljubljana,  Slovenia
+Date: 06/04/2019 8:00 pm
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+sting is playing at:
+Venue: EXPO Plaza
+Location: Hannover,  Germany
+Date: 06/06/2019 8:00 pm
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+sting is playing at:
+Venue: Kauno Žalgirio arena
+Location: Kaunas,  Lithuania
+Date: 06/08/2019 8:00 pm
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+sting is playing at:
+Venue: Arēna Rīga
+Location: Riga,  Latvia
+Date: 06/10/2019 8:00 pm
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+sting is playing at:
+Venue: Saku Suurhall
+Location: Tallinn,  Estonia
+Date: 06/12/2019 8:00 pm
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+sting is playing at:
+Venue: Kaisaniemi Park
+Location: Helsinki,  Finland
+Date: 06/13/2019 7:00 pm
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+sting is playing at:
+Venue: Beitostølen Stadion
+Location: Beitostolen,  Norway
+Date: 06/15/2019 9:00 pm
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+sting is playing at:
+Venue: Solsiden
+Location: Trondheim,  Norway
+Date: 06/17/2019 4:30 pm
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+sting is playing at:
+Venue: Solsiden
+Location: Trondheim,  Norway
+Date: 06/19/2019 7:00 pm
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+sting is playing at:
+Venue: Jahn Gelände
+Location: Forchheim,  Germany
+Date: 06/23/2019 7:00 pm
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+sting is playing at:
+Venue: Teaterpladsen
+Location: Holstebro,  Denmark
+Date: 06/21/2019 8:00 pm
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+sting is playing at:
+Venue: SparkassenPark Mönchengladbach
+Location: Mönchengladbach,  Germany
+Date: 06/25/2019 8:00 pm
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+sting is playing at:
+Venue: OpenAir-Platz EmslandArena
+Location: Bad Ems,  Germany
+Date: 06/26/2019 8:00 pm
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+sting is playing at:
+Venue: Auditorium Stravinski
+Location: Montreux-jeune,  France
+Date: 06/28/2019 8:00 pm
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+sting is playing at:
+Venue: Messe Graz Freigelände
+Location: Graz,  Austria
+Date: 07/04/2019 8:00 pm
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+sting is playing at:
+Venue: Freilichtbühne Peißnitz
+Location: Schwarzenbach An Der Saale,  Germany
+Date: 07/06/2019 8:00 pm
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+sting is playing at:
+Venue: DE BIJLOKE (TUINEN)
+Location: Gent,  Belgium
+Date: 07/08/2019 3:30 pm
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+sting is playing at:
+Venue: Musik-Arena
+Location: Munchen,  Germany
+Date: 07/10/2019 7:00 pm
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+sting is playing at:
+Venue: Schloßplatz
+Location: Stuttgart,  Germany
+Date: 07/11/2019 7:00 pm
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+sting is playing at:
+Venue: Zámecký park Slavkov u Brna
+Location: Brno-kralovo,  Czech Republic
+Date: 07/12/2019 4:00 pm
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+sting is playing at:
+Venue: THEATRES ROMAINS DE FOURVIERE
+Location: Lyon,  France
+Date: 07/17/2019 8:30 pm
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+sting is playing at:
+Venue: KUNSTRASEN bonn gronau
+Location: Bonn-bad Godesberg,  Germany
+Date: 07/15/2019 7:01 pm
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+sting is playing at:
+Venue: Auditorio de Marbella, La Cantera de Nagüeles
+Location: Marbella,  Spain
+Date: 07/23/2019 10:00 pm
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+sting is playing at:
+Venue: CHAPITEAU
+Location: Marciac,  France
+Date: 07/25/2019 9:00 pm
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+sting is playing at:
+Venue: THEATRE JEAN-DESCHAMPS
+Location: Carcassonne,  France
+Date: 07/26/2019 9:30 pm
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+sting is playing at:
+Venue: Salle du Radassier - Maison de Maître Domaine de Fontblanche
+Location: Vitrolles,  France
+Date: 07/27/2019 6:30 pm
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+sting is playing at:
+Venue: Salle du Radassier - Maison de Maître Domaine de Fontblanche
+Location: Vitrolles,  France
+Date: 07/28/2019 11:59 pm
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+sting is playing at:
+Venue: Piazza Napoleone
+Location: Lucca,  Italy
+Date: 07/29/2019 9:30 pm
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+sting is playing at:
+Venue: Arena Live
+Location: Padova,  Italy
+Date: 07/30/2019 9:40 pm
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+sting is playing at:
+Venue: THEATRE DE PLEIN AIR - PARC DES EXPO
+Location: Colmar,  France
+Date: 08/01/2019 8:00 pm
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+sting is playing at:
+Venue: SPORTING MONTE-CARLO S. DES ETOILES
+Location: Monaco-ville,  Monaco
+Date: 08/02/2019 8:30 pm
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+sting is playing at:
+Venue: Ravinia Festival
+Location: Highland Park, IL United States
+Date: 08/23/2019 8:00 pm
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+sting is playing at:
+Venue: Ravinia Festival
+Location: Highland Park, IL United States
+Date: 08/24/2019 8:00 pm
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+sting is playing at:
+Venue: Filene Center at Wolf Trap
+Location: Vienna, VA United States
+Date: 08/26/2019 8:00 pm
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+sting is playing at:
+Venue: Filene Center at Wolf Trap
+Location: Vienna, VA United States
+Date: 08/27/2019 8:00 pm
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+sting is playing at:
+Venue: Usana Amphitheatre
+Location: Salt Lake City, UT United States
+Date: 08/31/2019 6:00 pm
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+sting is playing at:
+Venue: Jazz At Aspen-Snowmass
+Location: Aspen, CO United States
+Date: 08/30/2019 6:00 pm
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+sting is playing at:
+Venue: Filene Center at Wolf Trap
+Location: Vienna, VA United States
+Date: 08/28/2019 8:00 pm
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+sting is playing at:
+Venue: THE COLOSSEUM AT CAESARS PALACE
+Location: Las Vegas, NV United States
+Date: 05/22/2020 8:00 pm
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+sting is playing at:
+Venue: Snowmass Town Park
+Location: Snowmass, CO United States
+Date: 09/01/2019 6:00 pm
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+sting is playing at:
+Venue: THE COLOSSEUM AT CAESARS PALACE
+Location: Las Vegas, NV United States
+Date: 05/23/2020 8:00 pm
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+sting is playing at:
+Venue: THE COLOSSEUM AT CAESARS PALACE
+Location: Las Vegas, NV United States
+Date: 05/27/2020 8:00 pm
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+sting is playing at:
+Venue: THE COLOSSEUM AT CAESARS PALACE
+Location: Las Vegas, NV United States
+Date: 05/29/2020 8:00 pm
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+sting is playing at:
+Venue: THE COLOSSEUM AT CAESARS PALACE
+Location: Las Vegas, NV United States
+Date: 05/30/2020 8:00 pm
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+sting is playing at:
+Venue: THE COLOSSEUM AT CAESARS PALACE
+Location: Las Vegas, NV United States
+Date: 06/03/2020 8:00 pm
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+sting is playing at:
+Venue: THE COLOSSEUM AT CAESARS PALACE
+Location: Las Vegas, NV United States
+Date: 06/05/2020 8:00 pm
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+sting is playing at:
+Venue: THE COLOSSEUM AT CAESARS PALACE
+Location: Las Vegas, NV United States
+Date: 06/06/2020 8:00 pm
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+sting is playing at:
+Venue: THE COLOSSEUM AT CAESARS PALACE
+Location: Las Vegas, NV United States
+Date: 08/15/2020 8:00 pm
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+sting is playing at:
+Venue: THE COLOSSEUM AT CAESARS PALACE
+Location: Las Vegas, NV United States
+Date: 08/19/2020 8:00 pm
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+sting is playing at:
+Venue: THE COLOSSEUM AT CAESARS PALACE
+Location: Las Vegas, NV United States
+Date: 08/21/2020 8:00 pm
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+sting is playing at:
+Venue: THE COLOSSEUM AT CAESARS PALACE
+Location: Las Vegas, NV United States
+Date: 08/22/2020 8:00 pm
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+sting is playing at:
+Venue: THE COLOSSEUM AT CAESARS PALACE
+Location: Las Vegas, NV United States
+Date: 08/26/2020 8:00 pm
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+sting is playing at:
+Venue: THE COLOSSEUM AT CAESARS PALACE
+Location: Las Vegas, NV United States
+Date: 08/28/2020 8:00 pm
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+sting is playing at:
+Venue: THE COLOSSEUM AT CAESARS PALACE
+Location: Las Vegas, NV United States
+Date: 08/29/2020 8:00 pm
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+sting is playing at:
+Venue: THE COLOSSEUM AT CAESARS PALACE
+Location: Las Vegas, NV United States
+Date: 09/02/2020 8:00 pm
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Title: The Muppet Movie
+Year: 1979
+IMDB Rating: 7.6/10
+Rotten Tomatoes Rating: 88%
+Country: UK, USA
+Langage: English
+Plot: Kermit and his newfound friends trek across America to find success in Hollywood, but a frog legs merchant is after Kermit.
+Actors: Jim Henson, Frank Oz, Jerry Nelson, Richard Hunt
+=======================================================================================
+Artist: Sam Cooke
+Song Name: (What A) Wonderful World
+Preview Link: https://p.scdn.co/mp3-preview/8aaf03977a5caa7ab2995e71e07b735a77c9a8de?cid=309a2460da2949098e734e5c59e85be1
+Album: The Man Who Invented Soul
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Artist: Louis Armstrong
+Song Name: What A Wonderful World - Single Version
+Preview Link: null
+Album: What A Wonderful World
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Artist: CIRQUS
+Song Name: What A Wonderful World
+Preview Link: https://p.scdn.co/mp3-preview/ca65465311b70ed2a9c1a371ba5e0a98250f9840?cid=309a2460da2949098e734e5c59e85be1
+Album: Cirqus
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Artist: Mira Sorrenti
+Song Name: What a Wonderful World
+Preview Link: https://p.scdn.co/mp3-preview/d1726ca23ce61dc31c9a5a74c615683236fe279e?cid=309a2460da2949098e734e5c59e85be1
+Album: Standards on Harp
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Artist: Israel Kamakawiwo'ole
+Song Name: What A Wonderful World
+Preview Link: https://p.scdn.co/mp3-preview/0110c529a01a34eaf0759747d3e857a8d3618029?cid=309a2460da2949098e734e5c59e85be1
+Album: Wonderful World
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Artist: Dina Nobles
+Song Name: What A Wonderful World
+Preview Link: https://p.scdn.co/mp3-preview/d301ef22d7ce8a2d7df11dc904563b95497e4785?cid=309a2460da2949098e734e5c59e85be1
+Album: What A Wonderful World
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Artist: Fred Mollin
+Song Name: What a Wonderful World
+Preview Link: null
+Album: Disney Lullaby Album
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Artist: Kaikane
+Song Name: What a Wonderful World
+Preview Link: https://p.scdn.co/mp3-preview/afffa7aa38cf08600ffea194d9d70d6124b09cbf?cid=309a2460da2949098e734e5c59e85be1
+Album: What a Wonderfull World
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Artist: Joey Ramone
+Song Name: What a Wonderful World
+Preview Link: https://p.scdn.co/mp3-preview/2caee18dd45efd86fc936f5fe521091029e51e7c?cid=309a2460da2949098e734e5c59e85be1
+Album: Don't Worry About Me
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Artist: Raffi
+Song Name: What a Wonderful World
+Preview Link: null
+Album: Let's Play
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Artist: Lexi Walker
+Song Name: What a Wonderful World
+Preview Link: https://p.scdn.co/mp3-preview/7bcf133e7328f621f7b16813a0996392ba5557fd?cid=309a2460da2949098e734e5c59e85be1
+Album: Inspire
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Artist: Phil Wickham
+Song Name: What a Wonderful World - Recorded at Sound Stage Studios Nashville
+Preview Link: https://p.scdn.co/mp3-preview/3f1b88abfaec8b57a7093752fe547d338499411d?cid=309a2460da2949098e734e5c59e85be1
+Album: Spotify Singles
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Artist: Stacey Kent
+Song Name: What a Wonderful World
+Preview Link: https://p.scdn.co/mp3-preview/f8f60da32c077e8ec942089843b2af6d6bdd3642?cid=309a2460da2949098e734e5c59e85be1
+Album: Breakfast On The Morning Tram
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Artist: Rod Stewart
+Song Name: What A Wonderful World
+Preview Link: https://p.scdn.co/mp3-preview/7ff630043a7c8ed6ee916fdf778844fb0c76b01c?cid=309a2460da2949098e734e5c59e85be1
+Album: Stardust...The Great American Songbook III
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Artist: Israel Kamakawiwo'ole
+Song Name: Over the Rainbow / What a Wonderful World
+Preview Link: https://p.scdn.co/mp3-preview/4f2d336af3a1552922587561053ff1b2264a87e0?cid=309a2460da2949098e734e5c59e85be1
+Album: Unforgettable
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Artist: Joseph Sullinger
+Song Name: What a Wonderful World
+Preview Link: https://p.scdn.co/mp3-preview/04f938f5155a939187c05aa08d5f619200e11e75?cid=309a2460da2949098e734e5c59e85be1
+Album: Art of Acoustic: Soft Instrumental Covers & Classical Guitar
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Artist: Brooklyn Duo
+Song Name: What a Wonderful World
+Preview Link: https://p.scdn.co/mp3-preview/4da36a179328faea453cc2f88a022460c833d790?cid=309a2460da2949098e734e5c59e85be1
+Album: What a Wonderful World
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Artist: Eva Cassidy
+Song Name: What A Wonderful World
+Preview Link: https://p.scdn.co/mp3-preview/20b5f9e48254b4e50d7b62787f5595ca3d8e38f5?cid=309a2460da2949098e734e5c59e85be1
+Album: The Best of Eva Cassidy
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Artist: Emile Pandolfi
+Song Name: What a Wonderful World
+Preview Link: https://p.scdn.co/mp3-preview/5125e65a416b37be2a8a3738b82cb19f89086fda?cid=309a2460da2949098e734e5c59e85be1
+Album: What a Wonderful World
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Artist: Céline Dion
+Song Name: What a Wonderful World
+Preview Link: https://p.scdn.co/mp3-preview/9e0568f243ab698cb52c7537e0536e4b5a9d5431?cid=309a2460da2949098e734e5c59e85be1
+Album: Miracle
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 Artist: Backstreet Boys
 Song Name: I Want It That Way
 Preview Link: https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=309a2460da2949098e734e5c59e85be1
@@ -8,15 +427,15 @@ Song Name: I Want It That Way
 Preview Link: https://p.scdn.co/mp3-preview/b8c2410a5acb68b462be6ac85f1312430e2b149c?cid=309a2460da2949098e734e5c59e85be1
 Album: Millennium
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-Artist: Jess and Gabriel
-Song Name: I Want It That Way
-Preview Link: https://p.scdn.co/mp3-preview/cc50bfee8d34ec92fda4109243c7ef0e6856f185?cid=309a2460da2949098e734e5c59e85be1
-Album: Under the Covers, Vol. 3
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 Artist: Anthem Lights
 Song Name: I Want It That Way
 Preview Link: https://p.scdn.co/mp3-preview/4a163fbfa2dbbe4433f277e0e7395dca656364f5?cid=309a2460da2949098e734e5c59e85be1
 Album: Covers Part IV
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Artist: Jess and Gabriel
+Song Name: I Want It That Way
+Preview Link: https://p.scdn.co/mp3-preview/cc50bfee8d34ec92fda4109243c7ef0e6856f185?cid=309a2460da2949098e734e5c59e85be1
+Album: Under the Covers, Vol. 3
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 Artist: Mick Jensen
 Song Name: I Want It That Way
@@ -53,15 +472,15 @@ Song Name: I Want It That Way
 Preview Link: https://p.scdn.co/mp3-preview/adf2485de3f3f375593b5307a792e8d8e6f19794?cid=309a2460da2949098e734e5c59e85be1
 Album: NKOTBSB
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-Artist: Boyce Avenue
-Song Name: I Want It That Way
-Preview Link: https://p.scdn.co/mp3-preview/764f1dcb8c9a9cec099cc361cb388f931bf023d3?cid=309a2460da2949098e734e5c59e85be1
-Album: Cover Sessions, Vol. 2
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 Artist: Glee Cast
 Song Name: Bye Bye Bye / I Want It That Way (Glee Cast Version)
 Preview Link: https://p.scdn.co/mp3-preview/3aa63b5c98b98ae333e567813e5c720abb2914f0?cid=309a2460da2949098e734e5c59e85be1
 Album: Bye Bye Bye / I Want It That Way (Glee Cast Version)
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Artist: Boyce Avenue
+Song Name: I Want It That Way
+Preview Link: https://p.scdn.co/mp3-preview/764f1dcb8c9a9cec099cc361cb388f931bf023d3?cid=309a2460da2949098e734e5c59e85be1
+Album: Cover Sessions, Vol. 2
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 Artist: Manuel Costa
 Song Name: I Want It That Way
@@ -73,15 +492,15 @@ Song Name: I Want It That Way
 Preview Link: https://p.scdn.co/mp3-preview/33685e005149d5e7d0199a764163ff77f7762e29?cid=309a2460da2949098e734e5c59e85be1
 Album: Nu Funk
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-Artist: Yshop
-Song Name: I Want It That Way
-Preview Link: https://p.scdn.co/mp3-preview/8d1287b933d37b96943a5041ebcd46c328c9a0ce?cid=309a2460da2949098e734e5c59e85be1
-Album: I Want It That Way
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 Artist: Scott Bradlee's Postmodern Jukebox
 Song Name: I Want It That Way
 Preview Link: https://p.scdn.co/mp3-preview/53296f4b689baaa0be6d94e8720c044e98d4b3e3?cid=309a2460da2949098e734e5c59e85be1
 Album: Selfies on Kodachrome
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Artist: Yshop
+Song Name: I Want It That Way
+Preview Link: https://p.scdn.co/mp3-preview/8d1287b933d37b96943a5041ebcd46c328c9a0ce?cid=309a2460da2949098e734e5c59e85be1
+Album: I Want It That Way
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 Artist: Kidz Bop Kids
 Song Name: I Want It That Way
@@ -104,24 +523,19 @@ Location: Yucaipa, CA United States
 Date: 05/04/2019 7:00 pm
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 blues traveler is playing at:
-Venue: Summer Camp Music Festival
-Location: Chillicothe, IL United States
-Date: 05/25/2019 7:00 pm
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-blues traveler is playing at:
 Venue: BeachLife Festival
 Location: Redondo Beach, CA United States
 Date: 05/05/2019 7:00 pm
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 blues traveler is playing at:
-Venue: Ravinia Festival
-Location: Highland Park, IL United States
-Date: 06/14/2019 6:30 pm
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-blues traveler is playing at:
 Venue: Columbus Commons
 Location: Columbus, OH United States
 Date: 05/17/2019 7:00 pm
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+blues traveler is playing at:
+Venue: Ravinia Festival
+Location: Highland Park, IL United States
+Date: 06/14/2019 6:30 pm
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 blues traveler is playing at:
 Venue: Red Rocks Amphitheatre
@@ -144,19 +558,29 @@ Location: Farmingville, NY United States
 Date: 07/11/2019 7:00 pm
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 blues traveler is playing at:
-Venue: MECU Pavilion
-Location: Baltimore, MD United States
-Date: 07/13/2019 7:00 pm
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-blues traveler is playing at:
 Venue: Stone Pony Summer Stage
 Location: Asbury Park, NJ United States
 Date: 07/12/2019 7:00 pm
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 blues traveler is playing at:
+Venue: MECU Pavilion
+Location: Baltimore, MD United States
+Date: 07/13/2019 7:00 pm
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+blues traveler is playing at:
 Venue: Union Bank & Trust Pavilion
 Location: Portsmouth, VA United States
 Date: 07/15/2019 7:00 pm
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+blues traveler is playing at:
+Venue: Summer Camp Music Festival
+Location: Chillicothe, IL United States
+Date: 05/25/2019 7:00 pm
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+blues traveler is playing at:
+Venue: Pines Theatre
+Location: Northampton, MA United States
+Date: 07/17/2019 7:00 pm
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 blues traveler is playing at:
 Venue: The Freeman Stage
@@ -179,19 +603,14 @@ Location: Gilford, NH United States
 Date: 07/21/2019 7:00 pm
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 blues traveler is playing at:
-Venue: Rebel
-Location: Toronto,  Canada
-Date: 07/24/2019 7:00 pm
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-blues traveler is playing at:
-Venue: Pines Theatre
-Location: Northampton, MA United States
-Date: 07/17/2019 7:00 pm
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-blues traveler is playing at:
 Venue: The Peach Music Festival
 Location: Scranton, PA United States
 Date: 07/26/2019 6:00 pm
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+blues traveler is playing at:
+Venue: Rebel
+Location: Toronto,  Canada
+Date: 07/24/2019 7:00 pm
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 blues traveler is playing at:
 Venue: Jacobs Pavilion at Nautica
@@ -209,14 +628,14 @@ Location: Sterling Heights, MI United States
 Date: 07/30/2019 7:00 pm
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 blues traveler is playing at:
-Venue: Farm Bureau Insurance Lawn at White River State Park
-Location: Indianapolis, IN United States
-Date: 07/31/2019 7:00 pm
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-blues traveler is playing at:
 Venue: Ascend Amphitheater
 Location: Nashville, TN United States
 Date: 08/02/2019 7:00 pm
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+blues traveler is playing at:
+Venue: Farm Bureau Insurance Lawn at White River State Park
+Location: Indianapolis, IN United States
+Date: 07/31/2019 7:00 pm
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 blues traveler is playing at:
 Venue: Coca-Cola Roxy
@@ -229,14 +648,14 @@ Location: Raleigh, NC United States
 Date: 08/04/2019 7:00 pm
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 blues traveler is playing at:
-Venue: White Oak Amphitheatre
-Location: Greensboro, NC United States
-Date: 08/06/2019 7:00 pm
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-blues traveler is playing at:
 Venue: Dailys Place
 Location: Jacksonville, FL United States
 Date: 08/07/2019 7:00 pm
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+blues traveler is playing at:
+Venue: White Oak Amphitheatre
+Location: Greensboro, NC United States
+Date: 08/06/2019 7:00 pm
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 blues traveler is playing at:
 Venue: White Oak Music Hall
@@ -293,6 +712,11 @@ Preview Link: null
 Album: 25
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 Artist: Blues Traveler
+Song Name: But Anyway '88
+Preview Link: null
+Album: 25
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Artist: Blues Traveler
 Song Name: But Anyway
 Preview Link: null
 Album: Live From The Fall
@@ -301,11 +725,6 @@ Artist: Sledding With Tigers
 Song Name: Love Songs Are Dumb Songs but I Like 'em Anyway
 Preview Link: https://p.scdn.co/mp3-preview/0aa02074d00ec64b4b0589fecb8a53768feb685a?cid=309a2460da2949098e734e5c59e85be1
 Album: Kenny Jeans (Old Songs That I Wrote)
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-Artist: Blues Traveler
-Song Name: But Anyway '88
-Preview Link: null
-Album: 25
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 Artist: Guru John Ban
 Song Name: I Feel The Fear But I Do It Anyway
@@ -347,6 +766,11 @@ Song Name: But I Love You Anyway
 Preview Link: https://p.scdn.co/mp3-preview/a84d753e7bf3fe92ec5248dc7f9994d2c266cb3e?cid=309a2460da2949098e734e5c59e85be1
 Album: My Life Directed By Nicolas Winding Refn (Original Motion Picture Soundtrack)
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Artist: Dave Pike Set
+Song Name: But Anyway
+Preview Link: https://p.scdn.co/mp3-preview/a6bff9963146ed306b0e36ac2a2777ec8140705f?cid=309a2460da2949098e734e5c59e85be1
+Album: Infra-Red (Live)
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 Artist: The History of Colour TV
 Song Name: I Knew It Was Wrong But I Did It Anyway
 Preview Link: https://p.scdn.co/mp3-preview/f1be66ce321895dd6c375535b6079671d943a73c?cid=309a2460da2949098e734e5c59e85be1
@@ -356,11 +780,6 @@ Artist: Guru John Ban
 Song Name: I Feel The Fear But I Do It Anyway
 Preview Link: https://p.scdn.co/mp3-preview/d05d5d5d447375b0f99d0f92dc31d27ff8620c18?cid=309a2460da2949098e734e5c59e85be1
 Album: Mantras, Vol. 3 &, Vol. 4
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-Artist: Dave Pike Set
-Song Name: But Anyway
-Preview Link: https://p.scdn.co/mp3-preview/a6bff9963146ed306b0e36ac2a2777ec8140705f?cid=309a2460da2949098e734e5c59e85be1
-Album: Infra-Red (Live)
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 Artist: Wonggoys
 Song Name: Chase the Girl or Rule the World

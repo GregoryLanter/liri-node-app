@@ -158,7 +158,7 @@ function command(choice) {
                 });
             break;
         case "do-what-it-says":
-            console.log("here");
+            
             fs.readFile("random.txt", "utf8", function (error, data) {
                 //log any errors
                 if (error) {
